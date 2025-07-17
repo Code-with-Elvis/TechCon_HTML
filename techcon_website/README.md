@@ -5,3 +5,7 @@ This is the landing page for the TechCon 2024 conference. It includes navigation
 # TechCon 2024 About Page
 
 The About page gives visitors insights into the history, mission, and influential speakers of TechCon.
+
+# TechCon 2024 Schedule Page
+
+This page provides a structured timetable of all key sessions and speakers for the conference.
