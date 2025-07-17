@@ -13,3 +13,7 @@ This page provides a structured timetable of all key sessions and speakers for t
 # TechCon 2024 Register Page
 
 The registration page allows attendees to sign up for the event using a secure and accessible form.
+
+# TechCon 2024 Contact Page
+
+This page offers various ways to contact the TechCon team, including email, social media, a Google Map, and a message form.
